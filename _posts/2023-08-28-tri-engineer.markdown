@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Experience 1"
+title:  "TRI Engineer"
 date:   2023-08-28 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+# image: /images/3dgaussian.jpg
 categories: work
 # author: "Ananda Sangli"
 # authors: "<strong>Leonid Keselman</strong>, Martial Hebert"

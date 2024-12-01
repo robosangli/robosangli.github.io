@@ -10,6 +10,7 @@ categories: work
 # arxiv: https://arxiv.org/abs/2308.14737
 # code: https://github.com/leonidk/fmb-plus
 website: https://robosangli.github.io/tri-engineer
+permalink: https://robosangli.github.io/tri-engineer
 # video: https://www.youtube.com/watch?v=kTuZnmyR4Kc
 ---
 Exp 1 text lorem ipsum dolor 

@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Ananda Sangli"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I like to build robots. At the moment, I help build autonomous electric cars as a System Integration Engineer at Toyota Research Institute"
+  bio              : "I like to build robots. At the moment, I help build autonomous electric cars as a System Integration Engineer at Toyota Research Institute.\n Website still under construction refer to https://anandatsangli.wixsite.com/home"
   location         : "San Francisco Bay Area"
   email            :
   links:
@@ -131,6 +131,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/ananda-sangli/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/robosangli"
@@ -147,6 +150,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/ananda-sangli/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/robosangli"

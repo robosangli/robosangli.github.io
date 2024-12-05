@@ -4,6 +4,10 @@ permalink: /precitec-intern-post/
 date: 2017-07-28
 ---
 
-This is an example post. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Or-A775ZTVI?si=1r3bGr6KPi84dyDa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Presented project 'Voltai' to the company's CEO
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=MgW6hnRPYpPaOOim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Timeline: June 2017 - July 2017<br>
+Location: Bangalore, India
+
+My partner and I developed a tilt measuring Mechatronic device during the summer of 2017. We nicknamed it ‘Voltai’. The related documents are below:

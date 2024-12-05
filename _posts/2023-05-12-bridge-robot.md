@@ -16,5 +16,5 @@ At the University of Illinois at Urbana-Champaign, my partner and I worked on a 
 
 For more details please access the final project and code using the links below.
 
-[Project Report](https://docs.google.com/document/d/1icam-yEAt-db9QScXojD4dcIZOKvuqC2QOR7I3tEcc4/edit?usp=share_link)<br>
+[Project Report](https://drive.google.com/file/d/1k0yKHwTPWuxY5g6oSlha2fvscagXPQv2/view?usp=sharing)<br>
 [Git Code](https://github.com/robosangli/LeaningBridgeOfLire)

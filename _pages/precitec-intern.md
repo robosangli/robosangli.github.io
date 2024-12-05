@@ -1,6 +1,6 @@
 ---
-title: "TRI System Integration Engineer"
-permalink: /tri-engineer/
+title: "Precitec Mechatronics Intern"
+permalink: /precitec-intern/
 ---
 
 This is an example page. 

@@ -1,6 +1,6 @@
 ---
-title: "TRI System Integration Engineer"
-permalink: /tri-engineer/
+title: "Impossible Objects Application Engineer"
+permalink: /io-engineer/
 ---
 
 This is an example page. 

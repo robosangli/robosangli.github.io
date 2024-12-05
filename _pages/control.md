@@ -1,6 +1,6 @@
 ---
-title: "TRI System Integration Engineer"
-permalink: /tri-engineer/
+title: "UIUC Intro to Robotic Control"
+permalink: /control/
 ---
 
 This is an example page. 

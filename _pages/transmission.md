@@ -1,6 +1,6 @@
 ---
-title: "TRI System Integration Engineer"
-permalink: /tri-engineer/
+title: "UIUC Mechanical Transmission"
+permalink: /transmission/
 ---
 
 This is an example page. 

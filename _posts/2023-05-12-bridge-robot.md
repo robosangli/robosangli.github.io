@@ -1,7 +1,7 @@
 ---
 title: "UIUC Bridge Building Robot"
 permalink: /uiuc-bridge-robot/
-image: "/assets/images/bridge-robot-final-demo.heif"
+date: 2023-05-12
 ---
 
 <figure>

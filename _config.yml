@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Ananda Sangli"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/about-me-tri.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I like to build robots. At the moment, I help build autonomous electric cars as a System Integration Engineer at Toyota Research Institute.\n Website still under construction refer to https://anandatsangli.wixsite.com/home"
   location         : "San Francisco Bay Area"
   email            :
@@ -325,7 +325,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: # true
       comments: # true
       share: true
       related: true

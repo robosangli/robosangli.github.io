@@ -11,4 +11,4 @@ At the University of Illinois at Urbana-Champaign, my group and I took up the ch
 
 Our design utilized spur gears (forward speeds), a v-belt & pulley system (reverse speed), and dog clutch shifters to engage the desired speed. A pair of bevel gears transmitted power to the output shaft.
 
-[Final Written Repor](https://7d599f8b-04df-4518-8152-b1fe59ef59ad.filesusr.com/ugd/2ee9e5_965e0ace4e4e4de4b77af82ecfb1b060.pdf)​
+[Final Written Report](https://7d599f8b-04df-4518-8152-b1fe59ef59ad.filesusr.com/ugd/2ee9e5_965e0ace4e4e4de4b77af82ecfb1b060.pdf)​

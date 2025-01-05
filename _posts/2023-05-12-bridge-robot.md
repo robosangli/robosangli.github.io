@@ -2,6 +2,8 @@
 title: "UIUC Bridge Building Robot"
 permalink: /uiuc-bridge-robot/
 date: 2023-05-12
+share: false
+excerpt: I built a robot that built bridges from small wooden blocks during my time at UIUC!
 ---
 
 <figure>

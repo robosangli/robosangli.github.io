@@ -3,7 +3,7 @@ title: "UIUC Mechanical Transmission"
 permalink: /transmission/
 date: 2022-05-13
 share: false
-excerpt: I built a 3D Printed & Laser-cut mechanical transmission while I was at UIUC!
+excerpt: Built a 3D Printed & Laser-cut mechanical transmission with forward, reverse, and neutral speeds
 ---
 
 Timeline: January 2022 - May 2022<br>

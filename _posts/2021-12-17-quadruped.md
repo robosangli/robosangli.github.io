@@ -3,7 +3,7 @@ title: "UIUC Quadruped"
 permalink: /quadruped/
 date: 2021-12-17
 share: false
-excerpt: I designed & developed a quadruped using gear-cam and rigid linkage legs at UIUC!
+excerpt: Designed & developed a quadruped using gear-cam and rigid linkage legs
 ---
 
 Timeline: August 2021 - December 2021<br>

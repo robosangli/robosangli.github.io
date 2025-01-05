@@ -1,11 +1,11 @@
 ---
-title: "About"
+title: "About Me"
 permalink: /about-me/
 # date: 2024--22T03:02:20+00:00
 ---
 
 <figure>
-<img src= "/assets/images/about-me.PNG">
+<img src= "/assets/images/about-me.png">
 </figure>
 
 Hi, I'm Ananda! I'm passionate about Robotics & Rowing!

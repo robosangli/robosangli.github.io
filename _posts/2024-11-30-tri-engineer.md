@@ -3,11 +3,11 @@ title: "TRI System Integration Engineer"
 permalink: /tri-engineer/
 date: 2024-11-30
 share: false
-excerpt: My current work as a System Integration Engineer at Toyota Research Institute helping build a battery-electric vehicle.
+excerpt: Designed a stack for on-board computers, integrating wheel-speed sensors, and exploring the perception & localization framework.
 ---
 
 Timeline: September 2024 - Present<br>
-Location: Los Altos, CA, USA
+Location: Los Altos, CA, USA<br>
 Skills: SOLIDWORKS, Laser Cutting, Perception & Localization
 
 I continue to assist in developing a new off-road battery electric vehicle with my previous responsibilities.

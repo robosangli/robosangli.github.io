@@ -3,12 +3,12 @@ title: "UIUC Bridge Building Robot"
 permalink: /uiuc-bridge-robot/
 date: 2023-05-12
 share: false
-excerpt: I built a robot that built bridges from small wooden blocks during my time at UIUC!
+excerpt: Used a collaborative robot arm to build a bridge from small colored wooden blocks
 ---
 
 <figure>
-<img src= "/assets/images/bridge-robot-final-demo.heif">
-<figure-caption>Final demo of a 9-layers bridge spanning 28.3 cm in length</figure-caption>
+<img src= "/assets/images/bridge-robot-final-demo.png">
+<figcaption>Final demo of a 9-layers bridge spanning 28.3 cm in length</figcaption>
 </figure>
 
 Timeline: January 2023 - May 2023<br>

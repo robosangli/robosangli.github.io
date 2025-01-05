@@ -3,11 +3,11 @@ title: "TRI Intern"
 permalink: /tri-intern/
 date: 2024-08-30
 share: false
-excerpt: My work as an Intern at Toyota Research Institute helping build an electric vehicle for the Human Interactive Driving Division
+excerpt: Integrated & implemented the brake-by-wire system, and developed a ROS2 Python package for a load-cell handbrake
 ---
 
 Timeline: December 2023 - August 2024<br>
-Location: Los Altos, CA, USA
+Location: Los Altos, CA, USA<br>
 Skills: MATLAB, Simulink, ROS2, Python, dSPACE
 
 I was an intern on the Platform Research team in Human Interactive Driving at Toyota Research Institute. I integrated mechatronic components to build a new off-road & high-torque battery electric vehicle.

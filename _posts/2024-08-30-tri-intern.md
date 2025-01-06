@@ -15,7 +15,7 @@ I was an intern on the Platform Research team in Human Interactive Driving at To
 ### Brake-by-wire
 <figure>
 <img src= "/assets/images/tri-brake-ecu-to-actuator-wire.png">
-<figcaption> A wire I fabricated to connect the brake ECU to the actuator, thereby setting up the vehicles brake-by-wire technology</figcaption>
+<figcaption> A wire I fabricated to connect the brake ECU to the actuator, thereby setting up the vehicle's brake-by-wire technology</figcaption>
 </figure>
 I implemented a reliable brake-by-wire architecture with 4 individually controllable caliper pressures, thereby providing higher autonomous control capabilities.
 

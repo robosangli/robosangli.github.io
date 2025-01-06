@@ -9,9 +9,10 @@ excerpt: Designed & developed a quadruped using gear-cam and rigid linkage legs
 Timeline: August 2021 - December 2021<br>
 Location: University of Illinois at Urbana-Champaign, USA
 
-At the University of Illinois at Urbana-Champaign, my peers and I decided to develop an innovative quadruped using gear-cam and rigid linkage systems.
+At the University of Illinois at Urbana-Champaign, my peers and I decided to develop an innovative quadruped using gear-cam and rigid linkage systems. 
+I worked on the cam-leg design, and the kinematic & force analyses of the rigid link leg
 
-The horse gait straight trot maneuver inspired our robot design and made a timed attempt to cross a 10 m x 1.5 m course.
+The horse gait straight trot maneuver inspired our robot design and the quadruped made a timed attempt to cross a 10 m x 1.5 m course.
 
 [Presentation Slides](https://docs.google.com/presentation/d/1rVo7aoovJQtvlJfRkqKCaw7-lydAy8OhbQ8KCzoRzEE/edit?usp=sharing)<br>
-[Final Report](https://7d599f8b-04df-4518-8152-b1fe59ef59ad.filesusr.com/ugd/2ee9e5_f320dc20f56343e48cd7071d197acca3.pdf)
+[Final Report](https://drive.google.com/file/d/1MsBH1_t7hgvBfjRdC-klt5KrwkJeB4Gf/view?usp=sharing)

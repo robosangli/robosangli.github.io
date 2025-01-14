@@ -5,7 +5,7 @@ permalink: /about-me/
 ---
 
 <figure>
-<img src= "/assets/images/about-me.png">
+<img src= "/assets/images/about-me.png" width="640">
 <figcaption> My undergrad commencement at UIUC in May 2023! </figcaption>
 </figure>
 

@@ -4,8 +4,9 @@ permalink: /about-me/
 # date: 2024--22T03:02:20+00:00
 ---
 
-<figure>
-<img src= "/assets/images/about-me.png" width="640">
+
+<figure style="width: 640px" class="align-center">
+<img src= "/assets/images/about-me.png">
 <figcaption> My undergrad commencement at UIUC in May 2023! </figcaption>
 </figure>
 

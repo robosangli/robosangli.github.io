@@ -6,7 +6,7 @@ share: false
 excerpt: Used a collaborative robot arm to build a bridge from small colored wooden blocks
 ---
 
-<figure>
+<figure class="align-center">
 <img src= "/assets/images/bridge-robot-final-demo.png">
 <figcaption>Final demo of a 9-layers bridge spanning 28.3 cm in length</figcaption>
 </figure>

@@ -13,7 +13,7 @@ Skills: MATLAB, Simulink, ROS2, Python, dSPACE
 I was an intern on the Platform Research team in Human Interactive Driving at Toyota Research Institute. I integrated mechatronic components to build a new off-road & high-torque battery electric vehicle.
 
 ### Brake-by-wire
-<figure>
+<figure class="align-center">
 <img src= "/assets/images/tri-brake-ecu-to-actuator-wire.png">
 <figcaption> A wire I fabricated to connect the brake ECU to the actuator, thereby setting up the vehicle's brake-by-wire technology</figcaption>
 </figure>

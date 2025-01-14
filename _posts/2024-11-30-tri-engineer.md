@@ -13,7 +13,7 @@ Skills: SOLIDWORKS, Laser Cutting, Perception & Localization
 I continue to assist in developing a new off-road battery electric vehicle with my previous responsibilities.
 
 ### Vehicle Compute Stack
-<figure>
+<figure class="align-center">
 <img src= "/assets/images/tri-delrin-tablesaw-compute-stack.PNG">
 <figcaption> I used the in-house tablesaw to cut 1/4" Delrin plates to fabricate the first iteration of the vehicle's compute stack to house onboard computers</figcaption>
 </figure>

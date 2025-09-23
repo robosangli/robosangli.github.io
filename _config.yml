@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Ananda Sangli"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I like to build robots. At the moment, I help build autonomous electric cars as a System Integration Engineer at Toyota Research Institute."
-  location         : "San Francisco Bay Area"
+  bio              : "I like to build robots and I like to row."
+  location         : "Boston, MA"
   email            :
   links:
     - label: "Email"

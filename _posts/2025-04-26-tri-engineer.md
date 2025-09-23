@@ -1,16 +1,16 @@
 ---
 title: "TRI System Integration Engineer"
 permalink: /tri-engineer/
-date: 2025-04-26
+date: 2025-06-01
 share: false
 excerpt: Designed a stack for on-board computers, integrating wheel-speed sensors, and exploring the perception & localization framework.
 ---
 
-Timeline: September 2024 - Present<br>
+Timeline: September 2024 - May 2025<br>
 Location: Los Altos, CA, USA<br>
 Skills: SOLIDWORKS, Laser Cutting, Perception & Localization
 
-I continue to assist in developing a new off-road battery electric vehicle with my previous responsibilities.
+I continued to assist in developing a new off-road battery electric vehicle with my previous responsibilities.
 
 ### Vehicle Compute Stack
 <figure class="align-center">
@@ -35,14 +35,14 @@ I am currently integrating these wheel-speed sensors to facilitate high-level so
 ### High Voltage Battery Build
 I supported with the build of a 35.7kWh 400V Li-ion battery pack comprising of 3 battery strings in parallel and 7 cells in series in each string.
 
-I started by sourcing all the necessary parts. This introduced me to HV contactors, current transducer sensors, battery management systems, cooling (heat exchanger, reserve tank, pumps) and the mechanical components needed like aluminum bridges, and copper busbars. I worked on the in-house CNC machining of certain parts like L-channel brackets below, and created the enclosure welding diagram.
+I started by sourcing all the necessary parts. This introduced me to HV contactors, current transducer sensors, battery management systems, cooling (heat exchanger, reserve tank, pumps) and the mechanical components needed like aluminum bridges, and copper busbars. I worked on the in-house CNC machining of certain parts like L-channel brackets below, and created the enclosure welding diagram (comprising of steel tubing and threaded+unthreaded sleeves).
 
 <figure class="align-center">
 <img src= "/assets/images/tri-battery-channel-cnc-machining.png">
 <figcaption> It was my first time operating the CNC Machine with no assistance to drill precise holes into L-channels that keep the side panels for each battery string in place</figcaption>
 </figure>
 
-I am currently building a 3D printed box to house 9 contactors, 3 current transducer sensors, and 3 automobile resistors. This will help in safely controlling the battery.
+I also assisted in the build of a 3D printed box to house 9 contactors, 3 current transducer sensors, and 3 automobile resistors. This will help in safely controlling the battery.
 
 <figure class="align-center">
 <img src= "/assets/images/tri-contactor-box-heat-set-insertion.png">
@@ -56,10 +56,7 @@ I was also introduced to the framework used to label lane boundaries dealing wit
 
 I set up software on my local system in terms of vision-based model predictive control, SAM2 (Segment Anything Model 2) for object segmentation, MATLAB, AWS data buckets (for rosbag data), and lane-boundary labeling scripts.
 
-I am currently studying GPS RTK (real-time kinematics) technology to better understand the onboard INS (inertial navigational system) and the ground truth calculations for vehicles.
-
-Here’s an exciting publication co-authored by my mentor using camera-based lane-mark measurements for  vehicle localization and road mapping, 
-[A framework for joint vehicle localization and road mapping using onboard sensors - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0967066124002715)
+This allowed me to study GPS RTK (real-time kinematics) technology to better understand the onboard INS (inertial navigational system) and the ground truth calculations for vehicles.
 
 ### Other tasks + Support
 I successfully integrated a human-machine interface keypad and buttons after testing on dSPACE layouts, thereby establishing analog detection emergency-stop capabilities and BMS (battery management system) signals. The resulting documentation will be utilized as vehicle operations for all future users.

@@ -1,22 +1,18 @@
 ---
-title: "Hullbot Underwater Robot Operator"
-permalink: /hullbot-operator/
-date: 2025-06-02
+title: "ME 5250 Robot Wrist Mechanism animation"
+permalink: /me5250-robot-wrist/
+date: 2025-09-22
 share: false
-excerpt: Operate underwater robots to reduce marine biofouling on ferries, thereby improving their fuel efficiency.
+excerpt: The animation video for a robot wrist mechanism for ME 5250 (Northeastern University)
 ---
 
-Timeline: February 2025 - May 2025<br>
-Location: San Francisco, CA, USA<br>
-Skills: Operations
+Timeline: Fall 2025<br>
+Location: Boston, MA, USA<br>
+Skills: 3D CAD (Onshape)
 
-Hullbot is a robotics startup based in Sydney, Australia with a mission of decarbonizing the global maritime industry by addressing three areas: carbon emissions, microplastics & toxic paints, biosecurity.
+Here is the video! 
 
-I support biweekly cleans of the SF Bay Ferries to reduce the biofouling on the hulls, thereby saving fuel and reducing emissions.
-
-The ferry structure consists of 2 keels and for each clean two operations work on opposite sides of the hull (port & starboard) effectively. 
-
-<figure class="align-center">
+<!-- <figure class="align-center">
 <img src= "/assets/images/hullbot-ferry-view.png">
 <figcaption>This is the view from the bow of the ferry. Operations originating from here allow cleans until the midship due to the length of the tether</figcaption>
 </figure>
@@ -36,4 +32,4 @@ The setup usually involves the hullbot robot, the tether spool, an underwater pr
 </figure>
 
 
-​[Hullbot](https://www.hullbot.com/)
+​[Hullbot](https://www.hullbot.com/) -->

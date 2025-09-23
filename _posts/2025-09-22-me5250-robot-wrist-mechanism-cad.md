@@ -12,24 +12,7 @@ Skills: 3D CAD (Onshape)
 
 Here is the video! 
 
-<!-- <figure class="align-center">
-<img src= "/assets/images/hullbot-ferry-view.png">
-<figcaption>This is the view from the bow of the ferry. Operations originating from here allow cleans until the midship due to the length of the tether</figcaption>
-</figure>
-
-To clean the sections between the midship and the stern (including the fins) the robot is operated at a different location.
-
-The setup usually involves the hullbot robot, the tether spool, an underwater pressure tester, and a computer that relays the camera & positioning data to the operator. The robots have depth, cruise, and hull-hold control capabilities which simplify the teleoperation process. This is particularly important in challenging conditions with vortices and reduced depth visibility
-
-<figure class="align-center">
-<img src= "/assets/images/hullbot-operation-setup.png">
-<figcaption>Operational Setup</figcaption>
-</figure>
-
-<figure class="align-center">
-<img src= "/assets/images/hullbot-operation-team.png">
-<figcaption>Working with my co-operator as the "port-side" team for one of the cleans!</figcaption>
-</figure>
-
-
-​[Hullbot](https://www.hullbot.com/) -->
+<video controls width="600">
+  <source src="/assets/videos/me-5250-robot-wrist-mechanism-animation.mp4" type="video/mp4">
+  Robot Wrist Mechanism CAD modeled by me with 3 R-joints, 5 U-joints, 1 S-joint, 1-P joint, and 2 C-joints
+</video>

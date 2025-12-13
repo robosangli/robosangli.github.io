@@ -13,6 +13,6 @@ Skills: Python, Forward Kinematics (DH Parameters), Inverse Kinematics (Newton-D
 Here is my attempt at the animation video! The link to the git repo will be shared shortly
 
 <video controls width="600">
-  <source src="/assets/videos/me5250-project2-animation.mov" type="video/mov">
+  <source src="/assets/videos/me5250-project2-animation.mp4" type="video/mp4">
  6DOF UR10e animation for Camera Orbit Trajectory
 </video>

@@ -31,7 +31,7 @@ I performed a mobility analysis using Grubler’s formula to demonstrate 2 DOF w
 I then used a simplified kinematic model of the mechanism to compute the Jacobian matrix of the linkage and identify the existing singularities (as shown in the report). 
 
 <figure class="align-center">
-<img src= "/assets/images/me5250-simplified-kinematics-model.jpg">
+<img src= "/assets/images/me5250-simplified-kinematics-model.png">
 <figcaption> Simplified Kinematics Model </figcaption>
 </figure>
 

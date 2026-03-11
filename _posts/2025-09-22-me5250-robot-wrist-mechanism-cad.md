@@ -19,8 +19,18 @@ Here is the video!
   Robot Wrist Mechanism CAD modeled by me with 3 R-joints, 5 U-joints, 1 S-joint, 1-P joint, and 2 C-joints
 </video>
 
-The originally provided design
-(add image from hw-2 answer?)
-I also performed a Grubler’s equation analysis on this mechanism.
+I built this model to better understand the original parallel wrist mechanism shown below.
 
-[Report link]
+<figure class="align-center">
+<img src= "/assets/images/me5250-robot-wrist-original-mechanism.png">
+<figcaption> Original Mechanism </figcaption>
+</figure>
+
+With the annotations (links and joints), I performed a mobility analysis of the mechanism using Grubler’s equation to verify that it has 3 DOF.
+
+<figure class="align-center">
+<img src= "/assets/images/me5250-robot-wrist-annotated-mechanism.png">
+<figcaption> Annotated Mechanism </figcaption>
+</figure>
+
+I also created drawings of the model to better showcase the 3D modeling. For more details, please take a look at the [Project Report](https://drive.google.com/file/d/1XqRkYsD7mi-k4qvhuJm0crDoMB9CKwip/view?usp=sharing).

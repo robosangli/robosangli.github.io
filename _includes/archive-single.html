@@ -19,7 +19,16 @@
     {% endif %} -->
     {% if include.type == "grid" %}
       <div class="archive__item-teaser">
-        {% if post.video %}
+        {% if post.youtube %}
+          <div class="youtube-container">
+            <iframe 
+              src="{{ post.youtube }}" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+              allowfullscreen>
+            </iframe>
+          </div>
+        {% elsif post.video %}
           <video autoplay muted loop playsinline>
             <source src="{{ post.video | relative_url }}" type="video/mp4">
           </video>

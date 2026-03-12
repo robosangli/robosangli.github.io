@@ -2,8 +2,11 @@
 title: "Precitec Precision Machineries Intern"
 permalink: /precitec-intern-post/
 date: 2017-07-28
+layout: single
 share: false
 excerpt: Built a mechatronic tilt device to be used in an industrial setting
+
+youtube: https://www.youtube.com/embed/Or-A775ZTVI?si=1r3bGr6KPi84dyDa
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Or-A775ZTVI?si=1r3bGr6KPi84dyDa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

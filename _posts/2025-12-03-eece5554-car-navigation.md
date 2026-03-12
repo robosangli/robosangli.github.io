@@ -2,8 +2,12 @@
 title: "EECE 5554 GPS-IMU Sensor Fusion for Vehicle Position Estimation"
 permalink: /eece5554-car-navigation/
 date: 2025-12-03
+layout: single
 share: false
 excerpt: GPS-IMU Sensor Fusion for Vehicle Position Estimation for EECE 5554 (Northeastern University)
+
+header:
+  teaser: /assets/images/car-nav-testing-setup.png
 ---
 
 Timeline: Fall 2025<br>

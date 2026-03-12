@@ -2,8 +2,12 @@
 title: "EECE 5554 Localization via Wi-Fi through RSSI/BSSID Pair Training"
 permalink: /eece5554-wifi-based-localization/
 date: 2025-12-12
+layout: single
 share: false
 excerpt: Localization via Wi-Fi through RSSI/BSSID Pair Training - Final Project for EECE 5554 (Northeastern University)
+
+header:
+  teaser: /assets/images/wifi-based-loc-data-collection.jpg
 ---
 
 Timeline: Fall 2025<br>

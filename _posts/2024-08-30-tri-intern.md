@@ -2,8 +2,12 @@
 title: "TRI Intern"
 permalink: /tri-intern/
 date: 2024-08-30
+layout: single
 share: false
 excerpt: Integrated & implemented the brake-by-wire system, and developed a ROS2 Python package for a load-cell handbrake
+
+header:
+  teaser: /assets/images/tri-brake-ecu-to-actuator-wire.png
 ---
 
 Timeline: December 2023 - August 2024<br>

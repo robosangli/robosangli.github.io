@@ -2,8 +2,12 @@
 title: "Hullbot Underwater Robot Operator"
 permalink: /hullbot-operator/
 date: 2025-06-02
+layout: single
 share: false
 excerpt: Operate underwater robots to reduce marine biofouling on ferries, thereby improving their fuel efficiency.
+
+header:
+  teaser: /assets/images/hullbot-operation-setup.png
 ---
 
 Timeline: February 2025 - May 2025<br>

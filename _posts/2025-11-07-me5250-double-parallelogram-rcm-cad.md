@@ -2,8 +2,12 @@
 title: "ME 5250 Double Parallelogram RCM Mechanism"
 permalink: /me5250-rcm-mechanism/
 date: 2025-11-07
+layout: single
 share: false
 excerpt: The CAD images and animation video for a double parallelogram RCM mechanism for ME 5250 (Northeastern University)
+
+header:
+  teaser: /assets/images/me5250-rcm-2dof
 ---
 
 Timeline: Fall 2025<br>

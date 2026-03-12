@@ -7,3 +7,18 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.archive__item-teaser {
+  display: flex;
+  justify-content: center; /* centers the media horizontally */
+  align-items: center;     /* centers vertically if height is fixed */
+  overflow: hidden;        /* hides anything overflowing the container */
+}
+
+.archive__item-teaser video {
+  max-width: 100%;         /* fits inside the card width */
+  max-height: 200px;       /* adjust height as needed */
+  object-fit: contain;      /* keeps full video visible, no cropping */
+  display: block;
+  border-radius: 6px;
+}

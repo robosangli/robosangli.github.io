@@ -2,6 +2,7 @@
 title: "UIUC Bridge Building Robot"
 permalink: /uiuc-bridge-robot/
 date: 2023-05-12
+layout: single
 share: false
 excerpt: Used a collaborative robot arm to build a bridge from small colored wooden blocks
 

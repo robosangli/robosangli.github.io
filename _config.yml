@@ -306,6 +306,9 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+archive:
+  type: posts
+  layout: grid
 
 
 # HTML Compression

@@ -4,6 +4,9 @@ permalink: /uiuc-bridge-robot/
 date: 2023-05-12
 share: false
 excerpt: Used a collaborative robot arm to build a bridge from small colored wooden blocks
+
+header:
+  teaser: /assets/images/bridge-robot-final-demo.png
 ---
 
 <figure class="align-center">

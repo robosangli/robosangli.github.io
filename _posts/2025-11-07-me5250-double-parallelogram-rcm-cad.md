@@ -7,7 +7,7 @@ share: false
 excerpt: The CAD images and animation video for a double parallelogram RCM mechanism for ME 5250 (Northeastern University)
 
 header:
-  teaser: /assets/images/me5250-rcm-2dof
+  teaser: /assets/images/me5250-rcm-2dof.jpg
 ---
 
 Timeline: Fall 2025<br>

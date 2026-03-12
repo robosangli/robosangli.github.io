@@ -2,8 +2,11 @@
 title: "ME 5250 Robot Wrist Mechanism animation"
 permalink: /me5250-robot-wrist/
 date: 2025-09-22
+layout: single
 share: false
 excerpt: The animation video for a robot wrist mechanism for ME 5250 (Northeastern University)
+
+video: /assets/videos/me-5250-robot-wrist-mechanism-animation.mp4
 ---
 
 Timeline: Fall 2025<br>

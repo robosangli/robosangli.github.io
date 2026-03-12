@@ -5,8 +5,9 @@ date: 2025-12-12
 share: false
 excerpt: The animation video for the Camera Orbit Trajectory through a 6-DOF Co-robot Arm for ME 5250 (Northeastern University)
 
-header:
-  teaser: /assets/videos/me5250-project2-animation.mp4
+# header:
+  # teaser: /assets/videos/me5250-project2-animation.mp4
+video: /assets/videos/me5250-project2-animation.mp4
 ---
 
 Timeline: Fall 2025<br>

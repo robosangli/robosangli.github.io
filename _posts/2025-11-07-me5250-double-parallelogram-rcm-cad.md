@@ -7,7 +7,7 @@ share: false
 excerpt: The design & analysis of a double parallelogram RCM mechanism for ME 5250 (Northeastern University)
 
 header:
-  teaser: /assets/images/me5250-rcm-2dof.jpg
+  teaser: /assets/images/me5250-simplified-kinematics-model.png
 ---
 
 Timeline: Fall 2025<br>

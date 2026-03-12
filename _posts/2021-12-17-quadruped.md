@@ -6,7 +6,7 @@ layout: single
 share: false
 excerpt: Designed & developed a quadruped using gear-cam and rigid linkage legs
 
-youtube: https://www.youtube.com/embed/MhUd-uZgEgo?si=wI-hnSCIl2pZcD0f
+youtube: https://www.youtube.com/embed/MhUd-uZgEgo?autoplay=1&mute=1&controls=0&modestbranding=1&loop=1&playlist=MhUd-uZgEgo
 ---
 
 Timeline: August 2021 - December 2021<br>

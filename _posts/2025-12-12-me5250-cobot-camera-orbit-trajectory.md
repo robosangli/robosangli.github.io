@@ -1,5 +1,5 @@
 ---
-title: "ME 5250 Camera Orbit Trajectory through Co-robot Arm"
+title: "NU Camera Orbit Trajectory through Co-robot Arm"
 permalink: /me5250-orbit-trajectory/
 date: 2025-12-12
 share: false

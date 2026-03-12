@@ -1,5 +1,5 @@
 ---
-title: "EECE 5554 GPS-IMU Sensor Fusion for Vehicle Position Estimation"
+title: "NU GPS-IMU Sensor Fusion for Vehicle Position Estimation"
 permalink: /eece5554-car-navigation/
 date: 2025-12-03
 layout: single

@@ -1,5 +1,5 @@
 ---
-title: "ME 5250 Double Parallelogram RCM Mechanism"
+title: "NU Double Parallelogram RCM Mechanism"
 permalink: /me5250-rcm-mechanism/
 date: 2025-11-07
 layout: single

@@ -1,5 +1,5 @@
 ---
-title: "EECE 5554 Localization via Wi-Fi through RSSI/BSSID Pair Training"
+title: "NU Localization via Wi-Fi through RSSI/BSSID Pair Training"
 permalink: /eece5554-wifi-based-localization/
 date: 2025-12-12
 layout: single

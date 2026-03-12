@@ -1,5 +1,5 @@
 ---
-title: "ME 5250 Robot Wrist Mechanism animation"
+title: "NU Robot Wrist Mechanism animation"
 permalink: /me5250-robot-wrist/
 date: 2025-09-22
 layout: single

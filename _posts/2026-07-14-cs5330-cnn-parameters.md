@@ -8,7 +8,7 @@ excerpt: The video presentation for Computing Parameters in Convolutional Layers
 youtube: https://www.youtube.com/embed/wNOAyNM9jqA?autoplay=1&mute=1&controls=0&loop=1&playlist=wNOAyNM9jqA
 ---
 
-Timeline: Fall 2025<br>
+Timeline: Summer 2026<br>
 Location: Boston, MA, USA<br>
 Skills: 
 

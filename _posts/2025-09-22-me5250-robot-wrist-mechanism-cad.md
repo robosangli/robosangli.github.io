@@ -7,6 +7,9 @@ share: false
 excerpt: The animation video for a robot wrist mechanism for ME 5250 (Northeastern University)
 
 video: /assets/videos/me-5250-robot-wrist-mechanism-animation.mp4
+group: project
+tags:
+  - 3D CAD
 ---
 
 Timeline: Fall 2025<br>

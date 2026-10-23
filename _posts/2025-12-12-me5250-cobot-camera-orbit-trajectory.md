@@ -8,6 +8,12 @@ excerpt: The animation video for the Camera Orbit Trajectory through a 6-DOF Co-
 # header:
   # teaser: /assets/videos/me5250-project2-animation.mp4
 video: /assets/videos/me5250-project2-animation.mp4
+group: project
+featured_order: 4
+tags:
+  - Python
+  - Kinematics
+  - Trajectory Planning
 ---
 
 Timeline: Fall 2025<br>

@@ -10,7 +10,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Rowing"
-    url: /rowing/
-  - title: "About Me"
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Experience"
+    url: /experience/
+  - title: "About"
     url: /about-me/
+  - title: "Resume"
+    url: https://www.linkedin.com/in/ananda-sangli/

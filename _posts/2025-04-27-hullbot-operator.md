@@ -8,6 +8,7 @@ excerpt: Operate underwater robots to reduce marine biofouling on ferries, there
 
 header:
   teaser: /assets/images/hullbot-operation-setup.png
+group: experience
 ---
 
 Timeline: February 2025 - May 2025<br>

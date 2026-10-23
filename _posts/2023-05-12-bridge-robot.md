@@ -8,6 +8,7 @@ excerpt: Used a collaborative robot arm to build a bridge from small colored woo
 
 header:
   teaser: /assets/images/bridge-robot-final-demo.png
+group: project
 ---
 
 <figure class="align-center">

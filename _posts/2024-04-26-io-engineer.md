@@ -8,6 +8,7 @@ excerpt: Designed PCB pallets to be used in the wave-soldering process
 
 header:
   teaser: /assets/images/io-isometric-1.png
+group: experience
 ---
 
 Impossible Objects leverages advanced additive manufacturing techniques to revolutionize the wave soldering process for electronic circuit boards with Carbon Fiber composite boards. 

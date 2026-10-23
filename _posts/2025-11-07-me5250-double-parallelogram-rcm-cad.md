@@ -8,6 +8,9 @@ excerpt: The design & analysis of a double parallelogram RCM mechanism for ME 52
 
 header:
   teaser: /assets/images/me5250-simplified-kinematics-model.png
+group: project
+tags:
+  - 3D CAD
 ---
 
 Timeline: Fall 2025<br>

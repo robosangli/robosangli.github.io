@@ -4,6 +4,7 @@ permalink: /transmission/
 date: 2022-05-13
 share: false
 excerpt: Built a 3D Printed & Laser-cut mechanical transmission with forward, reverse, and neutral speeds
+group: project
 ---
 
 Timeline: January 2022 - May 2022<br>

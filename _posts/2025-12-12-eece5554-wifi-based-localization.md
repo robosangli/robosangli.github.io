@@ -8,6 +8,10 @@ excerpt: Localization via Wi-Fi through RSSI/BSSID Pair Training - Final Project
 
 header:
   teaser: /assets/images/wifi-based-loc-data-collection.jpg
+group: project
+featured_order: 3
+tags:
+  - Localization
 ---
 
 Timeline: Fall 2025<br>

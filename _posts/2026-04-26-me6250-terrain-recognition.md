@@ -4,7 +4,10 @@ permalink: /me6250-terrain-recognition/
 date: 2026-04-26
 share: false
 excerpt: Developed a wearable robotics sensing and terrain-classification system using four IMUs mounted at the thighs and ankles to classify level ground, inclines, uneven terrain, and sand. (ME 6250, Northeastern University)
-
+group: project
+featured_order: 2
+tags:
+  - IMU
 
 ---
 

@@ -8,6 +8,11 @@ excerpt: GPS-IMU Sensor Fusion for Vehicle Position Estimation for EECE 5554 (No
 
 header:
   teaser: /assets/images/car-nav-testing-setup.png
+group: project
+tags:
+  - GPS
+  - IMU
+  - Sensor Fusion
 ---
 
 Timeline: Fall 2025<br>

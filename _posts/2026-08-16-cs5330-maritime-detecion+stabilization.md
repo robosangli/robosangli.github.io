@@ -4,7 +4,10 @@ permalink: /cs5330-maritime-detection+stabilization/
 date: 2026-08-03
 share: false
 excerpt: Developed a perception pipeline for autonomous surface vehicles operating under camera motion caused by wave-induced pitch and roll. (CS 5330, Northeastern University)
-
+group: project
+featured_order: 1
+tags:
+  - Perception
 
 ---
 

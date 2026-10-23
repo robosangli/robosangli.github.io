@@ -8,6 +8,12 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Grid cards are floated. Contain them so the next section heading
+// starts below the cards instead of collapsing into the previous heading.
+.entries-grid {
+  @include clearfix;
+}
+
 .archive__item-teaser {
   display: flex;
   justify-content: center; /* centers the media horizontally */

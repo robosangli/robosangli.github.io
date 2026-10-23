@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ananda Sangli"
+  name             : "Ananda Sangli — Robotics Engineer"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I like to build robots and I like to row."
+  bio              : "Building intelligent robotic systems through perception, localization, control, and hardware-software integration."
   location         : "Boston, MA"
   email            :
   links:
